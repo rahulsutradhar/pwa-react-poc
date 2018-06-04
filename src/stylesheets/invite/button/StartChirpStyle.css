@@ -1,0 +1,10 @@
+
+.button-start-chirp {
+    width: 400px;
+    height: auto;
+    font-size: x-large;
+    color: #f00;
+    background: lightcyan;
+    padding: 12px;
+    margin-top: 20px;
+}
