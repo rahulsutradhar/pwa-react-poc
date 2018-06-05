@@ -50,7 +50,7 @@ class StartChirp extends Component {
 
         if (this._chirp != null) {
 
-            var code = "123456";
+            var code = "P123456";
             var uint8array = new TextEncoder("utf-8").encode(code);
             var string = new TextDecoder("utf-8").decode(uint8array);
             console.log(uint8array);

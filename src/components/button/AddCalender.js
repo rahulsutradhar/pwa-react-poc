@@ -38,7 +38,13 @@ class AddCalender extends Component {
                         {method: 'email', minutes: 24 * 60},
                         {method: 'popup', minutes: 10}
                     ]
-                }
+                },
+                organizer: {
+                    email: "help@mygate.in",
+                    displayName: "myGate"
+                },
+                guestsCanInviteOthers: false,
+                guestsCanModify: false
             },
             isSignin: false
         }
