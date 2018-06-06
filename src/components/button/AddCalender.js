@@ -25,10 +25,10 @@ class AddCalender extends Component {
                 location: '303 A, The Island Society, HSR Lyout',
                 description: 'Your friend has invited you to his society',
                 start: {
-                    date: "2018-06-06"
+                    date: "2018-06-07"
                 },
                 end: {
-                    date: "2018-06-06"
+                    date: "2018-06-07"
                 },
                 recurrence: [],
                 attendees: [],
