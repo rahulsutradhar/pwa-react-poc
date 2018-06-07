@@ -25,10 +25,10 @@ class AddCalender extends Component {
                 location: '303 A, The Island Society, HSR Lyout',
                 description: 'Your friend has invited you to his society',
                 start: {
-                    date: "2018-06-05"
+                    date: "2018-06-07"
                 },
                 end: {
-                    date: "2018-06-05"
+                    date: "2018-06-07"
                 },
                 recurrence: [],
                 attendees: [],
@@ -38,7 +38,13 @@ class AddCalender extends Component {
                         {method: 'email', minutes: 24 * 60},
                         {method: 'popup', minutes: 10}
                     ]
-                }
+                },
+                organizer: {
+                    email: "help@mygate.in",
+                    displayName: "myGate"
+                },
+                guestsCanInviteOthers: false,
+                guestsCanModify: false
             },
             isSignin: false
         }

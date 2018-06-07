@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import '../stylesheets/invite/InviteStyle.css';
 import Header from "./header/Header";
 import AddCalender from "./button/AddCalender";
+import StartChirp from "./button/StartChirp";
 
 class Invite extends Component {
     constructor(props) {
@@ -27,6 +28,8 @@ class Invite extends Component {
                     <p className="App-intro">{this.state.date.toLocaleDateString()}</p>
 
                     <AddCalender></AddCalender>
+
+                    <StartChirp/>
 
                 </div>
 

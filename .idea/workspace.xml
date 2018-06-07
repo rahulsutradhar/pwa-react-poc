@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bb37742-796a-46e3-8220-171b1b9492bb" name="Default" comment="" />
+    <list default="true" id="0bb37742-796a-46e3-8220-171b1b9492bb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/button/AddCalender.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/button/AddCalender.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +19,8 @@
       <file leaf-file-name="AddCalender.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/button/AddCalender.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-860">
-              <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+            <state relative-caret-position="396">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -36,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -52,15 +57,16 @@
         <option value="$PROJECT_DIR$/src/googleapiconfig.js" />
         <option value="$PROJECT_DIR$/src/stylesheets/invite/button/StartChirpStyle.css" />
         <option value="$PROJECT_DIR$/src/stylesheets/invite/InviteStyle.css" />
-        <option value="$PROJECT_DIR$/src/chirpconfig.js" />
-        <option value="$PROJECT_DIR$/src/components/button/AddCalender.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/index.jsx" />
-        <option value="$PROJECT_DIR$/src/components/button/StartChirp.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Invite.js" />
         <option value="$PROJECT_DIR$/src/components/header/Header.js" />
+        <option value="$PROJECT_DIR$/src/components/Invite.js" />
+        <option value="$PROJECT_DIR$/src/chirpconfig.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/chirp-v3.min.js" />
+        <option value="$PROJECT_DIR$/src/components/button/StartChirp.js" />
+        <option value="$PROJECT_DIR$/src/components/button/AddCalender.js" />
       </list>
     </option>
   </component>
@@ -84,32 +90,12 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -131,24 +117,46 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/button/AddCalender.js&#10;Add&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/button/AddCalender.js&#10;build&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/node_modules/npm/scripts/index-build.js&#10;static&#9;null&#9;null&#10;stat&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/node_modules/npm/html/static&#10;bundle&#9;null&#9;null&#10;.babel&#9;null&#9;null&#10;webpa&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/node_modules/chirp-js-sdk/webpack.config.js&#10;ind&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/public/index.html&#10;A&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/button/AddCalender.js" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/button/AddCalender.js&#10;A&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/button/AddCalender.js&#10;Ad&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/button/AddCalender.js&#10;IN&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/Invite.js&#10;In&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/Invite.js&#10;Add&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/src/components/button/AddCalender.js&#10;build&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/node_modules/npm/scripts/index-build.js&#10;static&#9;null&#9;null&#10;stat&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/node_modules/npm/html/static&#10;bundle&#9;null&#9;null&#10;.babel&#9;null&#9;null&#10;webpa&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/node_modules/chirp-js-sdk/webpack.config.js&#10;ind&#9;FILE&#9;file:///Users/rahulsutradhar/Desktop/PWA/mygate-pwa/my-app/public/index.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/invite/button" />
-      <recent name="$PROJECT_DIR$/src/css/invite" />
-      <recent name="$PROJECT_DIR$/src/invite" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/invite/button" />
+      <recent name="$PROJECT_DIR$/src/css/invite" />
+      <recent name="$PROJECT_DIR$/src/invite" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,12 +184,13 @@
       <workItem from="1527776246911" duration="4272000" />
       <workItem from="1527829986709" duration="37361000" />
       <workItem from="1528114659571" duration="829000" />
-      <workItem from="1528115567246" duration="204000" />
+      <workItem from="1528115567246" duration="10811000" />
+      <workItem from="1528269225581" duration="207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42666000" />
+    <option name="totallyTimeSpent" value="53480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -191,9 +200,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -214,20 +223,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/button/AddCalender.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -300,32 +295,10 @@
     <entry file="file://$PROJECT_DIR$/node_modules/react-notify-toast/bin/notify.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chirp-js-sdk/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15870" column="12" selection-start-line="15870" selection-start-column="12" selection-end-line="15870" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/meta.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chirpconfig.js" />
-    <entry file="file://$PROJECT_DIR$/src/stylesheets/invite/button/StartChirpStyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -408,8 +381,6 @@
     <entry file="file://$PROJECT_DIR$/src/App.js" />
     <entry file="file://$PROJECT_DIR$/src/index.jsx" />
     <entry file="file://$PROJECT_DIR$/src/chirp.jsx" />
-    <entry file="file://$PROJECT_DIR$/src/components/button/StartChirp.js" />
-    <entry file="file://$PROJECT_DIR$/src/chirp-v3.min.js" />
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -420,24 +391,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/googleapiconfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/calender_client_id.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -448,27 +405,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/googleapiconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stylesheets/invite/button/StartChirpStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chirpconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/chirp-v3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="123" column="28" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chirp-js-sdk/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="72" column="2" selection-start-line="72" selection-start-column="2" selection-end-line="72" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="5085" column="29" lean-forward="true" selection-start-line="5085" selection-start-column="29" selection-end-line="5085" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="2116" column="14" selection-start-line="2116" selection-start-column="14" selection-end-line="2116" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="13123" column="4" selection-start-line="13123" selection-start-column="4" selection-end-line="13123" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Invite.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/button/StartChirp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/button/AddCalender.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-860">
-          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+        <state relative-caret-position="396">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
